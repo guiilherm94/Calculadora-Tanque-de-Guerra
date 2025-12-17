@@ -1,0 +1,18 @@
+# Vercel
+.vercel
+
+# Node modules (caso adicione dependências futuramente)
+node_modules/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
